@@ -1,2 +1,0 @@
-tioff	mdtime	sdtime	mit
-0.0	 0.000 	 0.000 	 2.000 
